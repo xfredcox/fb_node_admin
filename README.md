@@ -1,0 +1,1 @@
+# Firebase Node Admin Shell
